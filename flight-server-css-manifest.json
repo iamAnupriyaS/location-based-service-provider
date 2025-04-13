@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "D:\\mini project final\\Appointment-Booking-System-master\\app\\layout.tsx": [
+      "D:\\mini project final\\Appointment-Booking-System-master\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Figtree\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "D:\\mini project final\\Appointment-Booking-System-master\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "D:\\mini project final\\Appointment-Booking-System-master\\app\\page": [
+      "D:\\mini project final\\Appointment-Booking-System-master\\app\\globals.css",
+      "D:\\mini project final\\Appointment-Booking-System-master\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Figtree\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
