@@ -2,7 +2,7 @@ The Location Based Service Provider System provides the following key features:
 
 User Registration and Login:
 Users can create an account by providing their details.
-Existing users can log in using their credentials.
+Existing users can log in using their credentials. 
 Business Creation:
 Logged-in users can add their own services.
 The system updates the service listings displayed on the home page.
